@@ -89,5 +89,5 @@ The second but last step is to disable verbose mode, it's very easy, just change
 And the last step is adding the cronjob. I won't go into details on how to do this, Google knows much better than me. The cronjob should run the command 'php -f /path/to/script/fetch.php' once per minute. That's it.
 
 
-If you feel like modifying anything, go ahead! If you make it any better, feel free to send me the changes, I'm looking forward to it. I'd especially appreciate if someone takes the time to make a better color scheme, I'm not that good at this. If you have any comments, suggestions, etc. drop me a mail too. You can reach me under <tm AT svenstucki ch>.
+If you feel like modifying anything, go ahead! If you make it any better, feel free to send me the changes, I'm looking forward to it. I'd especially appreciate if someone takes the time to make a better color scheme, I'm not that good at this. If you have any comments, suggestions, etc. drop me a mail too.
 
